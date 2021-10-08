@@ -1,0 +1,31 @@
+body {
+    margin:0;
+    color:
+}
+h1{
+    margin-left: 20px;
+    text-align: center;
+}
+.header {
+    color: aquamarine;
+    font-weight: 700;
+}
+.width {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+}
+.width img {
+    width: 100%;
+    height:300px;
+    margin-left: 10%;
+}
+p{ 
+    text-align: justify;
+}
+.top{
+   
+}
+section {
+    height: 350px;
+}
